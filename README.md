@@ -1,5 +1,7 @@
 ## UIScrollView+InfiniteScroll
 
+All credit to the original author [pronebird](https://github.com/pronebird)
+
 Infinite scroll implementation as a category for UIScrollView.
 
 <table>
